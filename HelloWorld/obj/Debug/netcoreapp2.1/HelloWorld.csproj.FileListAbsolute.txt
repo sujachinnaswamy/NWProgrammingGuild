@@ -1,0 +1,4 @@
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
