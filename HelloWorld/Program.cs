@@ -4,10 +4,9 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {            
-            Console.WriteLine("Please enter a name here:");
-            string name = Console.ReadLine();
+            string name = args[0];
             Console.WriteLine($"Hello {name}!");
         }
     }
