@@ -5,10 +5,14 @@ namespace Triangle
     class Program
     {
         static void Main()
-        {            
-            for (int i = 0; i< 5; i++)
+        {   
+            Console.WriteLine("Enter the max number of *s "); 
+            int star = Convert.ToInt32(Console.ReadLine());
+            
+            for (int i = 0; i<= star; i++)
             {
-               Console.WriteLine(new string('*', (i < 5) ? i:5));
+               Console.WriteLine(new string('*', (i < star) ? i:star));
+                           
             }
         }
     }

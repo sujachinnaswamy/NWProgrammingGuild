@@ -16,7 +16,7 @@ namespace Search
    	
             for(i=0;i<listsize;i++)
             {
-	          Console.WriteLine("Enter the number");
+	          Console.Write("Enter the number");
               listOfNumbers.Add(Convert.ToInt32(Console.ReadLine())); 
 	        }
             int max = listOfNumbers.Max();
