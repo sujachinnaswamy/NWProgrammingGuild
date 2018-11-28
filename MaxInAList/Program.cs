@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace Search
 {
@@ -9,7 +10,7 @@ namespace Search
         {            
             int[] arrayofNumbers= new int[100];
             int i, arraysize;
-
+            
             Console.Write("Input the number of elements to be stored in the array :");
 	        arraysize= Convert.ToInt32(Console.ReadLine());  
    	
@@ -17,12 +18,12 @@ namespace Search
             for(i=0;i<arraysize;i++)
             {
 	          Console.Write("element {0} : ",i);
-		      arrayofNumbers[i] = Convert.ToInt32(Console.ReadLine());  
+		      arrayofNumbers[i] = Convert.ToInt32(Console.ReadLine());
 	        }
             int max = arrayofNumbers.Max();
-
-            Console.WriteLine($"Largest number is {max}");
-
+            
+            Console.Write($"Largest number in the array is {max}");          
+            
         }
     }
 }
