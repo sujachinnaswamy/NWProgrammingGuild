@@ -1,0 +1,11 @@
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.csprojAssemblyReference.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.csproj.CoreCompileInputs.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.AssemblyInfoInputs.cache
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.AssemblyInfo.cs
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\bin\Debug\netcoreapp2.1\MaxInAList.deps.json
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\bin\Debug\netcoreapp2.1\MaxInAList.runtimeconfig.json
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\bin\Debug\netcoreapp2.1\MaxInAList.runtimeconfig.dev.json
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\bin\Debug\netcoreapp2.1\MaxInAList.dll
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\bin\Debug\netcoreapp2.1\MaxInAList.pdb
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.dll
+C:\projects\git repos\ProgrammingGuild\NWProgrammingGuild\MaxInAList\obj\Debug\netcoreapp2.1\MaxInAList.pdb
